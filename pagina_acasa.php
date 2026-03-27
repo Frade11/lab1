@@ -105,5 +105,6 @@ $statistici['carti_recente'] = $row['recente'];
             echo "<tr><td colspan='4'>Nu există utilizatori înregistrați</td></tr>";
         }
         ?>
+        
     </table>
 </div>
